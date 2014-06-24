@@ -1,1 +1,1 @@
-Extract the source files. compile using ANT file and deploy to your favourite Java container
+Rename sm-shop-2.0.war to sm-shop.war and deploy to your application server. If running Apache Tomcat, copy to web apps folder. Then start your server !
